@@ -1,0 +1,10 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Original CV file — cv.pdf is the canonical copy served by the site
+akshat_ml_fin.pdf
